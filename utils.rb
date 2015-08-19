@@ -1,5 +1,5 @@
 class Utils
   def times_two num
-    num * 2
+    num.to_i * 2
   end
 end
